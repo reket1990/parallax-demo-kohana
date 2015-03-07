@@ -1,5 +1,5 @@
 header
 
-<?php echo $content; ?>
+<?php echo $view; ?>
 
 footer
