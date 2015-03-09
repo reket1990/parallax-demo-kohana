@@ -1,5 +1,14 @@
-header
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="<?php echo URL::site('assets/css/base.css'); ?>">
+	</head>
 
-<?php echo $view; ?>
+	<body>
+		<h3>Header</h3>
 
-footer
+		<?php echo $view; ?>
+
+		<h3>Footer</h3>
+	</body>
+</html>
