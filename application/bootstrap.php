@@ -147,6 +147,6 @@ Cookie::$salt = 'reket';
  */
 Route::set('default', '(<controller>(/<action>(/<id>)))')
 	->defaults(array(
-		'controller' => 'home',
+		'controller' => 'parallax',
 		'action'     => 'index',
 	));
