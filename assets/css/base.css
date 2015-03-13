@@ -14,11 +14,11 @@ body {
 
 	background-color: DimGray;
 	font-family: "Menlo";
-	color: White;
+	color: LightGray;
 }
 
 header, footer {
-	color: Chartreuse;
+	color: Chartreuse; /* Shade of green */
 }
 
 .slide {
